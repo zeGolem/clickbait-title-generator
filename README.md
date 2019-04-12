@@ -1,5 +1,6 @@
 # clickbait-title-generator
 This is a Python script that generates random clickbait Youtube titles
+![](https://i.imgur.com/NwzINQc.gif)
 
 # How to run
 
